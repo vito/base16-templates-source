@@ -81,6 +81,7 @@ zathura: https://github.com/nicodebo/base16-zathura
 # resolved.
 # telegram-desktop: https://gitlab.com/theova/base16-telegram-desktop
 
-fish: https://github.com/vito/base16-fish-shell
+fish: https://github.com/vito/base16-fish
 vim: https://github.com/vito/base16-vim
 windows-terminal: https://github.com/vito/base16-windows-terminal
+logseq: https://github.com/nikdoof/base16-logseq
